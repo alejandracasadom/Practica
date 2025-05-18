@@ -2,7 +2,7 @@ numero1 = 2
 numero2 =1
 
 # Suma los números
-suma = numero1 + numero2
+resta = numero1 - numero1
 
 # Muestra el resultado
-print("La suma de", numero1, "y", numero2, "es:", suma)
+print("La suma de", numero1, "y", numero2, "es:", resta)
